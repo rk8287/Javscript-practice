@@ -1,0 +1,13 @@
+.parent{
+
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.child{
+
+    width: 200px;
+    height: 50px;
+    text-align: center;
+}

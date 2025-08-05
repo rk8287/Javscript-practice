@@ -110,5 +110,18 @@
 
 // console.log(higherOrderFunction(greet, "Raunak"))
 
-console.log('5' == 5);
-console.log('5' === 5);
+// console.log('5' == 5);
+// console.log('5' === 5);
+
+
+//currying
+
+// function curryAdd(a){
+//     return function(b){
+//         return function(c){
+//             return a + b + c;
+//         }
+//     }
+// }
+
+// console.log(curryAdd(1)(2)(3));
